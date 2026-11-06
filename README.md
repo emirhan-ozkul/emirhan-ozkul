@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emirhan Özkul</h1>
 <h3 align="center">A freelance c# developer from Turkey</h3>
 
-<p align="left"> <a href="https://github.com/emirhan-ozkul/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhan-ozkul" alt="emirhan-ozkul" /></a> </p>
+<p align="left"> <a href="https://github.com/emirhan-ozkul/github-profile-trophy"><img src="[https://github-profile-trophy.vercel.app/?username=emirhan-ozkul](https://avatars.githubusercontent.com/u/206614460?v=4&size=64)" alt="emirhan-ozkul" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
